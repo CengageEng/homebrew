@@ -1,6 +1,6 @@
 require 'formula'
 
-class Httpd < Formula
+class Apache2 < Formula
   url 'http://mirrors.ibiblio.org/pub/mirrors/apache/httpd/httpd-2.2.21.tar.bz2'
   homepage 'http://httpd.apache.org/'
   sha1 'c02f9b05da9a7e316ff37d9053dc76a57ba51cb4'
